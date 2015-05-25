@@ -82,6 +82,7 @@ f.write("#class_helper_installed\n")
 f.close()
 
 #os.system("echo "+hak_num+name+" >> /sogang/under/cs20141500/tools/class_helper_user_list.txt");
+os.system(cmd4echo);
 
 print
 print "INSTALL이 완료되었습니다.  계정에 다시 접속해주세요."
